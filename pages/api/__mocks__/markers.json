@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Brazilian Serie A",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/42/Campeonato_Brasileiro_S%C3%A9rie_A_logo.png",
+    "coordinates": [-15.419902, -50.815938]
+  },
+  {
+    "description": "Bundesliga",
+    "imageUrl": "https://futhead.cursecdn.com/static/img/17/leagues/19.png",
+    "coordinates": [50.827005, 10.253952]
+  },
+  {
+    "description": "Premier League",
+    "imageUrl": "https://2.bp.blogspot.com/-AsCk3Cgq1qA/WlRt-vX7LxI/AAAAAAAAHwk/Y1j8gkH0Xywp66dz5i35ueIIlwDLj078wCLcBGAs/s1600/0001%2B-%2BING%2B1.png",
+    "coordinates": [53.100855, -1.633254]
+  },
+  {
+    "description": "Ligue 1 Uber Eats",
+    "imageUrl": "https://lh3.googleusercontent.com/proxy/NqeifZEQVB9xdm6nefMugUgMIzPWnXIlb5BSagYOYbJv9Y8pN1vLSWu0R2PhTYzzk9dhZA8e24RlllhzFaZrT3KYcoUDsW8XJPU",
+    "coordinates": [48.763688, 2.179001]
+  },
+  {
+    "description": "La Liga",
+    "imageUrl": "https://apprecs.org/ios/images/app-icons/256/af/545609647.jpg",
+    "coordinates": [39.791954, -3.072463]
+  },
+  {
+    "description": "Serie A TIM",
+    "imageUrl": "https://www.pesmaster.com/pes-2020/graphics/leaguelogos/emb_0010.png",
+    "coordinates": [42.771383, 12.530614]
+  }
+]
