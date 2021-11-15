@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Marker } from "../shared/types";
 
-export const useChampionshipMarkers = (): { markers: Marker[] } => {
+export const useChampionshipMarkers = (): Marker[] => {
   const [markers, setMarkers] = useState<Marker[]>([]);
 
   useEffect(() => {
@@ -11,7 +11,5 @@ export const useChampionshipMarkers = (): { markers: Marker[] } => {
       .catch(() => setMarkers([]));
   }, []);
 
-  return {
-    markers,
-  };
+  return markers;
 };
